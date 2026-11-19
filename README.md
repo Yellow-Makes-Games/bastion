@@ -11,7 +11,7 @@ Bastion is in early development. Expect rough edges.
 
 1. Get `Bastion-windows-<version>.zip` from the [latest release](../../releases/latest).
 2. Unzip it anywhere.
-3. Run `Bastion.exe` (keep the `data_Bastion_windows_x86_64` folder next to it).
+3. Run `Bastion.exe`. (Or install and update it from the Yellow Makes Games launcher.)
 
 Windows 10/11, 64-bit. The build is unsigned, so Windows SmartScreen may warn
 on first launch: choose **More info → Run anyway**.
